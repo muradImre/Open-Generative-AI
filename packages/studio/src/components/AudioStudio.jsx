@@ -622,8 +622,8 @@ export default function AudioStudio({
 
     try {
       const audioParams = {
-        model: selectedModelId,
         ...params,
+        _modelId: selectedModelId,
       };
 
       // Call generateAudio
