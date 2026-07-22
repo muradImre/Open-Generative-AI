@@ -1,3 +1,11 @@
+> **About This Fork**
+>
+> This repository is a fork of the original Open Generative AI project. It was forked to support independent development, customization, and experimentation without interfering with the upstream repository. This version will include project-specific changes to the interface, features, integrations, workflows, and overall product direction while retaining the open-source foundation of the original project.
+>
+> This fork is independently maintained and is not an official release of, or affiliated with, the original repository’s maintainers.
+
+- - - - - - - -
+
 # Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms
 
 > **The free, open-source alternative to AI Video Platforms.** Generate AI images and videos using 200+ state-of-the-art models — no content filters, no closed ecosystem, no subscription fees.
